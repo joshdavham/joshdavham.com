@@ -1,2 +1,4 @@
-# joshdavham.github.io
-My personal site
+# joshdavham.com
+My personal website
+
+See [CONTRIBUTING](CONTRIBUTING.md) for local development instructions.
