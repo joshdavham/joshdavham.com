@@ -53,3 +53,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
